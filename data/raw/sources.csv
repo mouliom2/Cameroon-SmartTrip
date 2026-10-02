@@ -1,0 +1,34 @@
+﻿source_id,dataset,source_url,source_type,verified_on,notes
+S001,hotels,https://framotelkribi.com/,Site officiel établissement,2026-10-02,Source pour Hôtel Framotel Kribi
+S002,hotels,https://www.hotelilomba.com/en/,Site officiel établissement + coordonnées OSM/Mapcarta,2026-10-02,Source pour Hôtel Ilomba
+S003,hotels,https://kribiholidays.com/,Site officiel établissement + coordonnées OSM/Mapcarta,2026-10-02,Source pour Les Gîtes de Kribi
+S004,hotels,https://www.kribi-lodge.com/,Site officiel établissement,2026-10-02,Source pour Kribi Lodge
+S005,hotels,https://ayilaa.com/fr/search?address=&city=kribi&name=H%C3%B4tel&neighborhood=&state=kribi,Annuaire local / données à confirmer,2026-10-02,Source pour Hôtel Tara Plage
+S006,hotels,https://ayilaa.com/fr/search?address=&city=kribi&name=H%C3%B4tel&neighborhood=&state=kribi,Annuaire local / données à confirmer,2026-10-02,Source pour Hôtel Lobé
+S007,hotels,https://ayilaa.com/fr/search?address=&city=kribi&name=H%C3%B4tel&neighborhood=&state=kribi,Annuaire local / données à confirmer,2026-10-02,Source pour Hôtel Du Phare
+S008,attractions,https://whc.unesco.org/en/tentativelists/6330/,UNESCO / liste indicative,2026-10-02,Source pour Chutes de la Lobé
+S009,attractions,https://pak.cm/fr/concours-du-phare-patrimonial-de-liala-2024/,Port Autonome de Kribi,2026-10-02,Source pour Phare de Kribi (Margaret)
+S010,attractions,https://fr.wikivoyage.org/wiki/Kribi,Guide collaboratif - information de destination,2026-10-02,Source pour Londji - village des pêcheurs
+S011,attractions,https://fr.wikivoyage.org/wiki/Kribi,Guide collaboratif - information de destination,2026-10-02,Source pour Plages de Grand Batanga
+S012,attractions,https://documents.worldbank.org/curated/en/500851468006948841/pdf/E23260V40FRENC00Box385453B00PUBLIC0.pdf,Banque mondiale / document de projet,2026-10-02,Source pour Plage de Ngoyè
+S013,activities,https://gitesdekribi.wixsite.com/kribi/book-online?lang=en,Site officiel prestataire,2026-10-02,Source pour Visite des Chutes de la Lobé
+S014,activities,https://gitesdekribi.wixsite.com/kribi/book-online?lang=en,Site officiel prestataire,2026-10-02,Source pour Visite du camp des pygmées
+S015,activities,https://www.kribi-lodge.com/,Site officiel prestataire,2026-10-02,Source pour Base nautique - balade / initiation / découverte
+S016,activities,https://www.hotelilomba.com/experiences-offres/,Site officiel prestataire,2026-10-02,Source pour Balade sur la Lobé
+S017,activities,https://www.hotelilomba.com/experiences-offres/,Site officiel prestataire,2026-10-02,Source pour Excursion vers le Parc de Campo Ma'an
+S018,transport,https://booking-mentravel.cm/trajets/douala-kribi,Site de réservation de l'opérateur,2026-10-02,Source pour MEN TRAVEL
+S019,hotels,https://mapcarta.com/fr/N5030989723,OpenStreetMap via Mapcarta,2026-10-02,Coordonnées Hôtel Ilomba
+S020,hotels,https://mapcarta.com/fr/N4540555079,OpenStreetMap via Mapcarta,2026-10-02,Coordonnées Les Gîtes de Kribi
+S021,attractions,https://cm.geoview.info/chutes_de_la_lobe%2C139775806n,OpenStreetMap-derived,2026-10-02,Coordonnées Chutes de la Lobé
+S022,hotels,https://www.hoteloceankribi.com/en/rooms,Site officiel établissement,2026-10-02,Source pour Hôtel Océan
+S023,hotels,https://voyage.maresaonline.com/hotel/sejour-avec-vue-sur-la-mer-a-lhotel-les-polygones-kribi/,Plateforme de réservation locale,2026-10-02,Source pour Hôtel Les Polygones
+S024,hotels,https://www.petitfute.com/v46041-kribi/c1166-hebergement/c1042-location/c165-appartement/1630881-residence-ketty-sina.html,Guide touristique,2026-10-02,Source pour Résidence Ketty Sina
+S025,hotels,https://www.kribicameroon.com/bussiness/djob-residence/,Annuaire touristique local,2026-10-02,Source pour Djob Résidence
+S026,hotels,https://www.uniresa.com/fr/cameroun/kribi/ngoye,Plateforme de réservation camerounaise,2026-10-02,Source pour MANBOU HOTEL
+S027,hotels,https://www.majeoresort.com/booking?lang=en,Site officiel établissement,2026-10-02,Source pour Complexe Hôtelier MAJEO By J&D
+S028,restaurants,https://www.majeoresort.com/service/restaurant-bar,Site officiel,2026-10-02,Source pour Restaurant MAJEO
+S029,restaurants,https://lemarresort.com/pages/restaurant,Site officiel,2026-10-02,Source pour Le Mar Restaurant
+S030,restaurants,https://www.kribi-lodge.com/le-restaurant/,Site officiel,2026-10-02,Source pour Kribi Lodge Restaurant
+S031,restaurants,https://kribizone.com/propri%C3%A9t%C3%A9/plaisir-du-gout/,Annuaire touristique local,2026-10-02,Source pour Au Plaisir du Goût
+S032,restaurants,https://www.kribicameroon.com/bussiness/blue-lagon-restaurant/,Annuaire touristique local,2026-10-02,Source pour Blue Lagon Restaurant
+S033,transport,https://booking-mentravel.cm/trajets/yaounde-kribi,Site de réservation de l'opérateur,2026-10-02,Tarifs et horaires MEN Travel Yaoundé → Kribi

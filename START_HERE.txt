@@ -1,0 +1,22 @@
+CAMEROON SMARTTRIP — APPLICATION COMPLETE
+
+GOOGLE COLAB
+1. Ouvrir LANCER_APP_COLAB.ipynb
+2. Exécuter la première cellule
+3. Importer SmartTrip_App_Complet.zip
+4. Installer les dépendances
+5. Lancer la dernière cellule
+6. Cliquer sur le lien Gradio
+
+WINDOWS
+1. Installer Python 3.11+
+2. Ouvrir un terminal dans ce dossier
+3. Exécuter :
+   pip install -r requirements_app.txt
+4. Double-cliquer sur LANCER_APPLICATION_GRADIO.bat
+
+L'application contient :
+- LLM + Agent
+- Planification
+- Simulation
+- Stress test

@@ -1,0 +1,6 @@
+﻿activity_id,provider,name,city,category,duration_text,price_from,price_currency,booking_required,source_url,source_type,verified_on,data_status
+ACT001,Les Gîtes de Kribi,Visite des Chutes de la Lobé,Kribi,Excursion,1 h,8500,XAF,Oui,https://gitesdekribi.wixsite.com/kribi/book-online?lang=en,Site officiel prestataire,2026-10-02,Vérifié
+ACT002,Les Gîtes de Kribi,Visite du camp des pygmées,Kribi,Excursion culturelle,1 h 30,10000,XAF,Oui,https://gitesdekribi.wixsite.com/kribi/book-online?lang=en,Site officiel prestataire,2026-10-02,Vérifié
+ACT003,Kribi Lodge,Base nautique - balade / initiation / découverte,Kribi,Nautisme,Variable,15,EUR,Oui,https://www.kribi-lodge.com/,Site officiel prestataire,2026-10-02,Vérifié
+ACT004,Hôtel Ilomba,Balade sur la Lobé,Kribi,Pirogue / nature,Variable,,,À confirmer,https://www.hotelilomba.com/experiences-offres/,Site officiel prestataire,2026-10-02,Vérifié
+ACT005,Hôtel Ilomba,Excursion vers le Parc de Campo Ma'an,Kribi,Écotourisme,Variable,,,Oui,https://www.hotelilomba.com/experiences-offres/,Site officiel prestataire,2026-10-02,Vérifié

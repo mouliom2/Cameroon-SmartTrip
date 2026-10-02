@@ -1,0 +1,5 @@
+pandas>=2.0
+scikit-learn>=1.4
+matplotlib>=3.7
+folium>=0.17
+gradio>=5.0

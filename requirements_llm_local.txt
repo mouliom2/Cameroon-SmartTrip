@@ -1,0 +1,6 @@
+# Free local LLM backends — no paid API key
+requests>=2.31
+transformers>=4.46
+accelerate>=1.0
+torch
+sentencepiece
